@@ -40,6 +40,7 @@ creates a `bundle.jar` containing your project's signed artifacts. To
 use the "bundle" target you need to have GnuPG set up in your path, a
 generated key pair, and a running `gpg-agent`, unless you like typing
 your passphrase a bunch of times in a row.
+Take note of the sample `pom.xml` file.
 
 ## Philosophy
 
